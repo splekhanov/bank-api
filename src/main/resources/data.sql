@@ -1,0 +1,1 @@
+INSERT INTO client (id, first_name, last_name, email) VALUES (null , 'Mike', 'Smith', 'mikesmith@yahoo.com');
